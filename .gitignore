@@ -5,6 +5,8 @@
 
 *Rproj
 
+*_files 
+
 /.quarto/
 
 _publish.yml
